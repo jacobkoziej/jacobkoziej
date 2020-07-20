@@ -16,3 +16,7 @@ I'm in love with my work, and I don't think that feeling will be fading any time
 I adore tinkering with technology, and if there's one thing I've learned thus far,
 it's that the more you learn, the more you realize you don't know.
 </p>
+
+<div align="center">
+	<h5>~(˘▾˘~)</h5>
+</div>
