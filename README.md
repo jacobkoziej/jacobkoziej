@@ -4,4 +4,6 @@
 		<i>Wait, you're saying I could have used the mouse all this time???</i>
 	</blockquote>
 	<img src="https://media.githubusercontent.com/media/jacobkoziej/jacobkoziej/master/repo%20banner.jpg" title="Jacob Koziej" alt="Jacob at the Grand Canyon"/>
+	<h4>Love your work and never work a day of your life.</h4>
+	<hr>
 </div>
