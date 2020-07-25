@@ -20,3 +20,8 @@ it's that the more you learn, the more you realize you don't know.
 <div align="center">
 	<h5>~(˘▾˘~)</h5>
 </div>
+
+<div align="center" class="float">
+	<img height="200" src="https://github-readme-stats.vercel.app/api?username=jacobkoziej&count_private=true&show_icons=true">
+	<img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jacobkoziej">
+</div>
