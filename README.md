@@ -1,27 +1,5 @@
-<div align="center">
-	<h3>TERMINAL ZOOMER AT LARGE</h3>
-	<blockquote>
-		<i>Wait, you're saying I could have used the mouse all this time???</i>
-	</blockquote>
-	<img src="https://media.githubusercontent.com/media/jacobkoziej/jacobkoziej/master/repo%20banner.jpg"
-	title="Jacob Koziej" alt="Jacob at the Grand Canyon"/>
-	<h4>Love your work and never work a day of your life.</h4>
-	<hr>
-</div>
+### My GitHub is depreciated!
 
-<h4>Hi there ツ</h4>
-<p align="justify">
-My name's Jacob, and I'm a high school junior majoring in mechatronics & robotics.
-I'm in love with my work, and I don't think that feeling will be fading any time soon.
-I adore tinkering with technology, and if there's one thing I've learned thus far,
-it's that the more you learn, the more you realize you don't know.
-</p>
+My main upstream remote is at <https://git.jacobkoziej.xyz/>
 
-<div align="center">
-	<h5>~(˘▾˘~)</h5>
-</div>
-
-<div align="center" class="float">
-	<img height="200" src="https://github-readme-stats.vercel.app/api?username=jacobkoziej&count_private=true&show_icons=true">
-	<img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jacobkoziej">
-</div>
+If you would like to find out more, visit the [about page](https://git.jacobkoziej.xyz/?p=about) on my cgit instance.
