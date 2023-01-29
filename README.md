@@ -1,11 +1,11 @@
-### My GitHub is depreciated!
-
-GitHub remains my main upstream remote as I transition over to
-[`<https://git.jacobkoziej.xyz/>`]
-
-If you would like to find out more, please visit the [about page] of my
-cgit instance.
-
-
-[`<https://git.jacobkoziej.xyz/>`]: https://git.jacobkoziej.xyz/
-[about page]: https://git.jacobkoziej.xyz/?p=about
+```
++--------------------------------------+
+| GPG fingerprint: 1BF9 8D10 E0D0 0B41 |
+| 5723 5836 4C13 3A84 E646 9228        |
++--------------------------------------+
+        \   ^__^
+         \  (oo)\_______
+            (__)\       )\/\
+                ||----w |
+                ||     ||
+```
